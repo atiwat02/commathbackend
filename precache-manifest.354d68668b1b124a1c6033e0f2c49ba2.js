@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f11e51a469854b17f64f359948142512",
+    "revision": "1094266b771c65ffd592b5d9e4e0e898",
     "url": "/commathbackend/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/commathbackend/static/css/2.2a86faee.chunk.css"
   },
   {
-    "revision": "4dff2ce4f5332e8872d1",
+    "revision": "640f8bee594d376f8155",
     "url": "/commathbackend/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/commathbackend/static/js/2.7f1f0b26.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4dff2ce4f5332e8872d1",
-    "url": "/commathbackend/static/js/main.240f6bd0.chunk.js"
+    "revision": "640f8bee594d376f8155",
+    "url": "/commathbackend/static/js/main.f1a6fc31.chunk.js"
   },
   {
     "revision": "84b7e93b8fbf1f06abc1",
