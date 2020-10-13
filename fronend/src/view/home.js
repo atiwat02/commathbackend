@@ -14,22 +14,22 @@ function Home() {
 
   return (
     <div>
-        <Button onClick={()=>{nextPage("BasicComputing")}} color="">
+        <Button onClick={()=>{nextPage("BasicComputing")}} color="btn btn-secondary">
             <h5>1.Basic Computing</h5>
-        </Button><br/>
-        <Button onClick={()=>{nextPage("LinearEquations")}} color="">
+        </Button><br/><br/>
+        <Button onClick={()=>{nextPage("LinearEquations")}} color="btn btn-secondary">
             <h5>2.Linear Equations</h5>
-        </Button><br/>
-        <Button onClick={()=>{nextPage("Interpolation")}} color="">
+        </Button><br/><br/>
+        <Button onClick={()=>{nextPage("Interpolation")}} color="btn btn-secondary">
             <h5>3.Interpolation	</h5>
-        </Button><br/>
-        <Button onClick={()=>{nextPage("Differentiation")}} color="">
+        </Button><br/><br/>
+        <Button onClick={()=>{nextPage("Differentiation")}} color="btn btn-secondary">
             <h5>4.Differentiation</h5>
-        </Button><br/>
-        <Button onClick={()=>{nextPage("Integration")}} color="">
+        </Button><br/><br/>
+        <Button onClick={()=>{nextPage("Integration")}} color="btn btn-secondary">
             <h5>5.Integration</h5>
-        </Button><br/>
-        <Button onClick={()=>{nextPage("Rootfinding")}} color="">
+        </Button><br/><br/>
+        <Button onClick={()=>{nextPage("Rootfinding")}} color="btn btn-secondary">
             <h5>6.Root-finding</h5>
         </Button><br/>
     </div>
