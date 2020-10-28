@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "06fe8be8c606cfaa31cf179399b7757a",
+    "revision": "d99c80ccd1ab95ea34bfad9469465c4c",
     "url": "/commathbackend/index.html"
   },
   {
-    "revision": "e2910c504b24eef14bf2",
+    "revision": "c99f5456a832a636d11a",
     "url": "/commathbackend/static/css/2.2a86faee.chunk.css"
   },
   {
-    "revision": "4ea03cefcceead120468",
+    "revision": "c19d8e3d0454c3e34dab",
     "url": "/commathbackend/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "e2910c504b24eef14bf2",
-    "url": "/commathbackend/static/js/2.7f1f0b26.chunk.js"
+    "revision": "c99f5456a832a636d11a",
+    "url": "/commathbackend/static/js/2.781831f9.chunk.js"
   },
   {
-    "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/commathbackend/static/js/2.7f1f0b26.chunk.js.LICENSE.txt"
+    "revision": "5e9b6f5c16b720e8a86875f97734673e",
+    "url": "/commathbackend/static/js/2.781831f9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4ea03cefcceead120468",
-    "url": "/commathbackend/static/js/main.c624db81.chunk.js"
+    "revision": "c19d8e3d0454c3e34dab",
+    "url": "/commathbackend/static/js/main.2f902d35.chunk.js"
   },
   {
     "revision": "84b7e93b8fbf1f06abc1",
